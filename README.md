@@ -4,5 +4,3 @@ share the scripts in this repository, the only thing I ask is to give some credi
 
 # Content 
 
-{{_TOC_}}
-
